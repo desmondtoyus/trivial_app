@@ -1,0 +1,10 @@
+{
+    "category" : "General Knowledge",
+    "type:": "boolean",
+    "difficulty": "hard",
+    "question": "This is the correct spelling of &quot;Supercalifragilisticexpialidocious&quot",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  }

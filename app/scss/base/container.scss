@@ -1,0 +1,23 @@
+body {
+    background-color: #e4e4e4;
+	font-family: Open Sans;
+    margin-bottom: 50px;
+    // background-image: url(../assets/images/favicon.png);
+}
+.container__wrap{
+    margin-bottom: 100px;
+}
+.main{
+    margin-top: 100px;
+}
+.loader{
+    position: absolute;
+    top: calc(50% - 4em);
+    left: calc(50% - 4em);
+    width: 6em;
+    height: 6em;
+    border: 1.1em solid rgba(0, 0, 0, 0.2);
+    border-left: 1.1em solid #000000;
+    border-radius: 50%;
+    animation: load8 1.1s infinite linear;
+  }
